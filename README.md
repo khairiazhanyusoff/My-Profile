@@ -83,3 +83,17 @@ CV Portfolio of Muhammad Khairi Azhan: AI Automation &amp; Data Engineer cum Ful
 ---
 
 > _“Empowering teams with AI, automation, and collaborative engineering. Always learning, always sharing.”_
+
+---
+
+## 🖥️ Local Development
+
+This repository includes a **Next.js TypeScript** version of the portfolio found in `index.html`.
+
+To view it locally:
+
+```bash
+cd web
+npm install     # install dependencies
+npm run dev     # starts server at http://localhost:3000
+```
